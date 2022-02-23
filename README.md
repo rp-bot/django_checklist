@@ -21,6 +21,7 @@ This Repo is about making it easy for you to get a django project up and running
 - `cd` into a desired directory in the terminal
 - copy & paste the *Pipfile* I have provided into the directory
 >Make sure you're not currently in a virtual environment
+`ctrl + d` will exit any active shells
 - using the *Pipfile*, create a virtual environment
 ```shell
 pipenv install
