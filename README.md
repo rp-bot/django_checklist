@@ -67,4 +67,4 @@ python manage.py startapp your_app_name
 ---
 
 # The Check List
- - [ ] 
+ - [ ] dd
