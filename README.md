@@ -59,7 +59,8 @@ pipenv shell
 django-admin startproject your_project_name
 ```
 - create your first app by running
-```python
+```shell
+cd your_project_name/
 python manage.py startapp your_app_name
 ```
 

@@ -1,2 +1,5 @@
 #Pipfile.lock
 Pipfile.lock
+
+#The django website
+/django_website_quickstart
