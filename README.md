@@ -10,7 +10,7 @@ This Repo is about making it easy for you to get a django project up and running
 
 ## Pre-Requisites
 >These instruction wouldn't apply to people who are familiar with *Pipenv* && *Django*
->See you at [the check-list](#The-Check-List)
+>See you at [the check-list](https://rp-bot.github.io/django-checklist/)
 - Python 3.8 
 - Pip
 - pipenv: ```pip install pipenv```
