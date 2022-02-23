@@ -67,4 +67,5 @@ python manage.py startapp your_app_name
 ---
 
 # The Check List
- - [ ] dd
+<input type="checkbox" name="1">
+<label for="1"> Create urls.py in app</label><br>
