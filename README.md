@@ -1,16 +1,22 @@
 # DJANGO QUICKSTART
 This Repo is about making it easy for you to get a django project up and running.
+>These instruction wouldn't apply to people who are familiar with *Pipenv* && *Django*
+>See you at [the check-list](https://rp-bot.github.io/django-checklist/)
+
+# Table of Contents
+
+1. [Features](#Features)
+2. [Pre-Requisites](#Pre-Requisites)
+3. [Installation](#Installation)
+
 
 ## Features
 - This repo has step-by-step instructions
 - It has instructions for setting up `pipenv`
 - This repo comes with a *Pipfile*
 
-
-
 ## Pre-Requisites
->These instruction wouldn't apply to people who are familiar with *Pipenv* && *Django*
->See you at [the check-list](https://rp-bot.github.io/django-checklist/)
+
 - Python 3.8 
 - Pip
 - pipenv: ```pip install pipenv```
