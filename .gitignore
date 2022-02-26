@@ -4,3 +4,7 @@ Pipfile.lock
 #The django website
 /django_website_quickstart
 
+#React App cache stuff
+/django-quickstart/node_modules
+/django-quickstart/public
+/django-quickstart/build
