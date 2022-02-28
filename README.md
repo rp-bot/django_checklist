@@ -60,16 +60,9 @@ deactivate
 ```shell
 pipenv shell
 ```
-- run this command to create your django project
-```shell
-django-admin startproject your_project_name
-```
-- create your first app by running
-```shell
-cd your_project_name/
-python manage.py startapp your_app_name
-```
 
 *congrats you are all setup!*
+
+**SEE YOU AT [THE CHECKLIST](https://rp-bot.github.io/django_checklist/)**
 
 ---
