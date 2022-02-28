@@ -1,7 +1,7 @@
 # DJANGO QUICKSTART
 This Repo is about making it easy for you to get a django project up and running.
 >These instruction wouldn't apply to people who are familiar with *Pipenv* && *Django*
->See you at [the check-list](https://rp-bot.github.io/django-checklist/)
+>See you at [the check-list](https://rp-bot.github.io/django_checklist/)
 
 # Table of Contents
 
