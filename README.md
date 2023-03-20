@@ -69,6 +69,6 @@ pipenv shell
 
 _congrats you are all setup!_
 
-**SEE YOU AT [THE CHECKLIST](https://rp-bot.github.io/django_checklist/)**
+**[THE CHECKLIST](https://rp-bot.github.io/django_checklist/)**
 
 ---
