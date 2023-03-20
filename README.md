@@ -1,4 +1,4 @@
-# DJANGO QUICKSTART
+# DJANGO QUICKSTART CHECKLIST
 
 This Repo is about making it easy for you to get a Django project up and running.
 
